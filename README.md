@@ -1,5 +1,6 @@
 # boilerplate json:server
-# local fake api for testing
+
+local fake api for testing
 
 npm run json:server 
 
