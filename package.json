@@ -13,8 +13,8 @@
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/cwibowo330/json-server-boilerplate/issues"
+  "dependencies": {
+    "json-server": "^0.14.0"
   },
   "homepage": "https://github.com/cwibowo330/json-server-boilerplate#readme"
 }
